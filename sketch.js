@@ -8,8 +8,8 @@ const tiles = [];
 const tileImages = [];
 
 let grid = [];
-const width = 800;
-const height = 800;
+const width = 600;
+const height = 600;
 
 const folderSize = function(){
     switch(folder){
